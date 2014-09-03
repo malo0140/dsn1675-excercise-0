@@ -5,8 +5,18 @@ h1 {
 }
 
 img {
-    size: 5rem;
+    size: ;
+}
+figure {
     
+}
     
+dt {
+    float: left;
+}
+    
+dd {
+    float: left;
+}
 
     
