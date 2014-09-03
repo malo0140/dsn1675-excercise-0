@@ -11,6 +11,15 @@ img {
 figure {
     
 }
+
+dl { 
+    border: 1px solid red;
+/*
+    This is a clearfix
+    It reminds the <dl> to wrap around all its floated children
+*/
+    overflow: hidden;
+}
     
 dt {
     float: left;
